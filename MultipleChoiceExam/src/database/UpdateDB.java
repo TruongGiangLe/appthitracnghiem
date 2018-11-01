@@ -19,12 +19,14 @@ import object.Student;
 import object.Subject;
 import object.Test;
 import object.Topic;
+// try to use github
 
 /**
  *
  * @author DuongSon
  */
 public class UpdateDB {
+    public int x;
    
     private Connection connect(){
         Connection con= null;
